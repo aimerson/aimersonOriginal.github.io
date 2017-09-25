@@ -1,2 +1,1 @@
-# Alex Merson
-I am a NASA Postdoctoral Program fellow based at NASA Jet Propulsion Laboratory and California Institute of Technology.
+I am a NASA Postdoctoral Program fellow based at NASA Jet Propulsion Laboratory and California Institute of Technology. Prior to this I was a post-doctoral associate at University College London. I undertook my Ph.D. at Durham University in the United Kingdom.
